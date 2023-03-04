@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stanley</h1>
-<h3 align="center">A passionate software engineer from Kenya</h3>
+<h3 align="center">A software engineer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stanley643&label=Profile%20views&color=0e75b6&style=flat" alt="stanley643" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **stannjoroge643:gmail.com**
 
-- ⚡ Fun fact **its the errors that make you grow**
+- ⚡ Fun fact **Django is named after the jazz guitarist Django Reinhardt.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
