@@ -14,9 +14,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Stanley643](https://github.com/Stanley643)
 
-- 📫 How to reach me **https://www.linkedin.com/in/stanley-njoroge-0b5357258/**
+- 📫 How to reach me **https://www.linkedin.com/in/stanley-njoroge/**
 
 - ⚡ Fun fact **Give it a trial when you still think you cant do it**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
